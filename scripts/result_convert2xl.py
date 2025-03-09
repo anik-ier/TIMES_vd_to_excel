@@ -9,8 +9,7 @@ input_folder_path = "C:/AnswerTIMESv6/Gams_WrkTI/"
 # scenario result  files
 '''please specify the scenarios results file (.vd) name here'''
 result_files = [
-    #input_folder_path + 'BALANCE.vd',
-    #input_folder_path + 'CAP_ICH_RESULT.vd',
+    input_folder_path + 'BALANCE.vd',
     input_folder_path + 'ECPRICES_HYDROGE.vd'
 ]
 '''please provide local location of output (result file) and just write result file name (e.g. all_result.txt),
