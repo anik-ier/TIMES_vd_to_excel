@@ -41,7 +41,7 @@ with open(output_file_path, 'w') as all_result:  # create all_result text file t
                         all_result.write(line)
                         print('Should not execute ELSE, is something wrong?')
 
-print(f'your output file {all_result.name} is created successfully')
+print(f'your output file {all_result.name} is created successfully.')
 
 
 # local location of all_result.text
